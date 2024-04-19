@@ -2,7 +2,7 @@
 def check_available():
     return "it works :)"
 
-def split_odd_even(nums=[1,2,3,4]):
+def split_odd_even(nums = [1, 2, 3, 4]):
     odds = []
     evens = []
     for num in nums:
