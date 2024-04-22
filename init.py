@@ -1,2 +1,2 @@
-for _ in range(3):
-    print("hello!")
+for _ in range(6):
+    print("안녕하세요?")
